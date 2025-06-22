@@ -1,8 +1,8 @@
 ## 🥰 Hi, I'm Fahmy!​
 
 🐣​ Product Designer (UX/UI) in progress building my portfolio<br/>
-👩🏽‍💻 Currently doing an International MA in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at [UniBO](https://www.unibo.it/it)<br/>
-🎓 Studied [Anthropology and Oriental Languages](https://corsi.unibo.it/laurea/ScienzeAntropologiche) during my BA at [UniBo](https://www.unibo.it/it)<br/>
+👩🏽‍💻 Currently doing an International MA in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) [@Unibo](https://www.unibo.it/)<br/>
+🎓 Studied [Anthropology and Oriental Languages](https://corsi.unibo.it/laurea/ScienzeAntropologiche) during my BA [@Unibo](https://www.unibo.it/)<br/>
 🌏 Fluent in Bengali, Italian, English and beginner in Japanese and Korean<br/>
 🎨​ Love anything that can unleash my creativity!! (eg. painting, 3d modeling, video editing, etc.)<br/>
 
