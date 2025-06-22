@@ -29,8 +29,3 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plastic&logo=Windows%2011&logoColor=white)
 
 
-<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Fahmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&show_icons=true&theme=jolly&bg_color=00000000&border_radius=30&rank_icon=github&text_bold=False)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Put Language stats + repo card from https://github.com/anuraghazra/github-readme-stats -->
-
