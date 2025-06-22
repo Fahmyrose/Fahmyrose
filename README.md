@@ -1,4 +1,5 @@
 ## 🥰 Hi, I'm Fahmy!​
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
 🐣​ Product Designer (UX/UI) in progress building my portfolio<br/>
 👩🏽‍💻 Currently doing an International MA in [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) [@Unibo](https://www.unibo.it/)<br/>
