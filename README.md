@@ -33,4 +33,4 @@ DenverCoder1/github-readme-streak-stats -->
 
 <!-- yeah the spacing is like this to put them side by side!! i didn't find any other solution!! -->
 
-![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&hide=prs,issues&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=500)    ![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=500)
+![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=500)    ![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=500)
