@@ -36,6 +36,6 @@ my repos before and after:
 <img align="left" alt="repo" width="250" src="https://tenor.com/it/view/repo-repo-i-love-gif-10145209781061238747.gif">
 
 
-![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=500)    ![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=500)
+![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=550)    ![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=550)
 
 
