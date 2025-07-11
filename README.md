@@ -30,12 +30,10 @@
 
 <!-- used github stats generator froom google and used API from anuraghazra/github-readme-stats
 DenverCoder1/github-readme-streak-stats -->
-my repos before and after:
+
 <!-- yeah the spacing is like this to put them side by side!! i didn't find any other solution!! -->
 
-<img align="left" alt="repo" width="250" src="https://tenor.com/it/view/repo-repo-i-love-gif-10145209781061238747.gif">
 
-
-![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=550)    ![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=550)
+![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=500)    ![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=500)
 
 
