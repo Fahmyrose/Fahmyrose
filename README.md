@@ -32,7 +32,8 @@
 DenverCoder1/github-readme-streak-stats -->
 
 <!-- yeah the spacing is like this to put them side by side!! i didn't find any other solution!! -->
-<!--![Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=400)
-![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=400&langs_count=8)-->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Fahmyrose&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fahmyrose&layout=compact&theme=tokyonight)
+<!--[Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=400)-->
+<!--![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=400&langs_count=8)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fahmyrose&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=100)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fahmyrose&layout=compact&theme=tokyonight&card_width=400&card_height=100)
+
