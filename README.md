@@ -23,16 +23,16 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plastic&logo=Windows%2011&logoColor=white)
-<!--![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)-->
-<!--![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)-->
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
 <!--![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)-->
-<!--![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)-->
 
 <!-- used github stats generator froom google and used API from anuraghazra/github-readme-stats
 DenverCoder1/github-readme-streak-stats -->
 
 <!-- yeah the spacing is like this to put them side by side!! i didn't find any other solution!! -->
 <!--[Fahmyrose's Stats](https://github-readme-stats.vercel.app/api?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&count_private=true&border_radius=30&text_bold=False&custom_title=GitHub_Stats&rank_icon=github&card_width=400)-->
-<!--![Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=400&langs_count=8)-->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fahmyrose&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=100)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fahmyrose&layout=compact&theme=tokyonight&card_width=400&card_height=100)
+<!--[Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=400&langs_count=8)-->
+<!--![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fahmyrose&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=100)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fahmyrose&layout=compact&theme=tokyonight&card_width=400&card_height=100)-->
