@@ -36,3 +36,8 @@ DenverCoder1/github-readme-streak-stats -->
 <!--[Fahmyrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmyrose&theme=jolly&show_icons=true&hide_border=false&layout=compact&border_radius=30&card_width=400&langs_count=8)-->
 <!--![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fahmyrose&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=400&card_height=100)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fahmyrose&layout=compact&theme=tokyonight&card_width=400&card_height=100)-->
+
+## 🌐 Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/View-My%20Portfolio-b5225f?style=for-the-badge)](https://fahmyrose.github.io/FahmysPortfolio/)<br>
+[Repository](https://github.com/Fahmyrose/FahmysPortfolio)
